@@ -41,7 +41,7 @@
      <tr>
       <td><a href="https://github.com/ghanem-mhd/master-thesis-implementation"><b>Master Thesis Implementation</b></a></td>
       <td>DApp demonstrates how blockchain can be used to in the manufacturing industry.</td>
-      <td>Ethereum, React, Node.js, Fischertechnik</td>
+      <td>Ethereum, React, Node.js, Fischertechnik, C++</td>
       <td><a href="https://www.youtube.com/watch?v=_VNuOGsH1bk"><b>Video Demonstration</b></td>
     </tr>
     <tr>
