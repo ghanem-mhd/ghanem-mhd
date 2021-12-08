@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ghanem aka Mad or غانم</h1>
 
 - Tech enthusiast living in Bonn, Germany.
-- Software Engineer at [Bayard Consulting GmbH](https://bayard-consulting.com/en/) in Köln, Germany.
+- Software Engineer at [Visa](https://www.visa.de/) in Munich, Germany.
 - Currently building [Kids&Codes](https://kidsandcodes.co.uk/).
 - Interested in Blockchain and HCI.
 - Media Informatics M.Sc. graduate from RWTH Aachen University.
