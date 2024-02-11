@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ghanem aka Mad or غانم</h1>
 
-- Tech enthusiast living in Munich, Germany.
-- Software Engineer at [Visa](https://www.visa.de/) in Munich, Germany.
+- Software Engineer at [Kleinanzeigen](https://www.Kleinanzeigen.de/) in Berlin, Germany.
 - Co-founder of [Kids&Codes](https://kidsandcodes.co.uk/).
 - Interested in Blockchain and HCI.
 - Media Informatics M.Sc. graduate from RWTH Aachen University.
@@ -52,13 +51,13 @@
     </tr>
     <tr>
       <td><a href="https://github.com/ghanem-mhd/2048-plus"><b>2048-plus</b></a></td>
-      <td>2048 game controllred by head tracking.</td>
+      <td>2048 game controlled by head tracking.</td>
       <td>iOS, SpriteKit, ARKit</td>
       <td></td>
     </tr>
      <tr>
       <td><a href="https://github.com/ghanem-mhd/N-Balls-Visualization"><b>N Balls Visualization</b></a></td>
-      <td>Jupyter notebook to visualize word embedding represented by high dimensional balls.</td>
+      <td>Jupyter notebook to visualize word embedding represented by high-dimensional balls.</td>
       <td>Python, Jupyter</td>
       <td><a href="https://github.com/ghanem-mhd/N-Balls-Visualization#examples"><b>Examples</b></td>
     </tr>
